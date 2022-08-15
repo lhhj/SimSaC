@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Requirements
 
-* CUDA = 11.1
+* CUDA = 11.2
 * Python 3.7
 * Pytorch 1.9.1
 
